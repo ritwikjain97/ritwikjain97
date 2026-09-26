@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritwikjain97
-- 👀 I’m interested in NLP in Legal, Finance and Insurance
+- 👀 I’m interested in NLP & GenAI in Clinical Coding
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on use cases in BFSI
+- 💞️ I’m looking to collaborate on use cases in Healthcare
 - 📫 How to reach me email
 
 <!---
